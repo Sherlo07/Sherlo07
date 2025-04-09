@@ -1,45 +1,53 @@
-Hi 👋, I'm Irfan Mohammad
-Passionate Full Stack Developer | Creating Scalable & Efficient Web Applications
-I am a full stack developer with experience in building responsive web applications using React.js, Next.js, JavaScript, HTML, and Tailwind CSS. I’ve worked on a diverse set of projects, including a Hospital Management System with Chatbot, Netflix Clone, and a To-Do List App. I enjoy transforming creative ideas into dynamic user experiences and continuously leveling up my technical skills. I'm open to exciting opportunities where I can contribute meaningfully and grow as a developer.
+# 👋 **Hi**, I'm **Irfan Mohammad**  
+### Full Stack Developer | Building Scalable & User-Centric Web Applications
 
-🚀 What I'm Currently Working On
-Enhancing my expertise in React.js, MongoDB, and Java Full Stack Development
+I'm a dedicated and growth-driven full stack developer with hands-on experience in developing modern, responsive, and high-performance web applications. My skill set spans across **React.js**, **Next.js**, **Java**, **Node.js**, and **MongoDB**, enabling me to create seamless frontend interfaces backed by robust backend logic.
 
-Working on Hospital Management System with Chatbot
+With a strong foundation in both client-side and server-side technologies, I have developed a variety of projects ranging from dynamic dashboards to full-fledged systems like **Hospital Management with Chatbot Integration**. I'm always looking for opportunities to collaborate, learn, and make meaningful contributions to impactful products.
 
-Preparing for Frontend Developer Roles
+---
 
-👨‍💻 Portfolio & Projects
-Here are some of the projects I’ve built:
+## 🚀 Current Focus
+- Advancing skills in **React.js**, **MongoDB**, and **Java Full Stack Development**
+- Building and optimizing the **Hospital Management System with Chatbot**
+- Actively preparing for **Frontend Developer** roles in product-based companies
 
-🔥 Hospital Management System with Chatbot — A full-fledged hospital system with smart chatbot support
+---
 
-🎬 Netflix Clone — A responsive UI clone of Netflix using React.js and styled-components
+## 🧩 Featured Projects
 
-✅ To-Do List App — A productivity tool using React.js and Tailwind CSS
+- 🏥 **Hospital Management System with Chatbot** – A complete MERN stack system with chatbot-based support  
+- 🛒 **Prime Cart** – An e-commerce web app built with **React.js**, **Tailwind CSS**, and **React Router**  
+- ✅ **To-Do List App** – A clean productivity tool built with React and Tailwind CSS  
+- 🏗️ **Architecture Prime** – A modern portfolio showcase for architects using React  
+- 📚 **Student Grade Calculator** – A Java-based command-line app to compute and display grades  
 
-🧠 Student Grade Calculator — A Java-based logic-driven console application
+> 🔗 View all projects on [GitHub »](https://github.com/Sherlo07)
 
-🏗️ Architecture Prime — A stunning portfolio site for architects, showcasing modern designs and content
+---
 
+## 💼 Skills & Tools
 
-Check out my code: GitHub
+### **Frontend**  
+HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap  
 
-📫 How to Reach Me
-📩 Email: irfanmohammad0607@gmail.com
-🔗 LinkedIn: irfan-mohammad0607
+### **Backend**  
+Node.js, Express.js, Java (Spring Boot)  
 
-🛠️ Languages and Tools
-Frontend
-HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap
+### **Databases**  
+MongoDB, MySQL  
 
-Backend
-Node.js, Express.js, Java (Spring Boot)
+### **Tools & Platforms**  
+Git, GitHub, Postman, VS Code, Vite
 
-Databases
-MongoDB, MySQL
+---
 
-Other Tools
-Git, Postman
+## 📫 Connect with Me
 
-💡 “Always learning and exploring new technologies!”
+- 📧 Email: **irfanmohammad0607@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/irfan-mohammad0607](https://www.linkedin.com/in/irfan-mohammad0607/)  
+- 💻 GitHub: [github.com/Sherlo07](https://github.com/Sherlo07)
+
+---
+
+### 💡 _“Driven by curiosity, guided by discipline, and fueled by code.”_
